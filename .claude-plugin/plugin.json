@@ -1,0 +1,6 @@
+{
+  "name": "skill-toggles",
+  "version": "0.1.0",
+  "description": "Panneau Skills : un bouton par skill pour l'activer ou le désactiver à tout moment",
+  "types": "./types/index.d.ts"
+}
